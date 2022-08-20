@@ -1,7 +1,7 @@
 // @ts-check
 import * as NextImage from 'next/image';
 import React from 'react';
-import '../styles/globals.css';
+import '../pages/globals.css';
 
 const BREAKPOINTS_INT = {
   xs: 375,
